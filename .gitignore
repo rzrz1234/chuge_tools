@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+logs/
+验证产物/
+版本记录/
+build/
+dist/
+安装包/
+打包/
+.env
+.env.*
+*.log
+*.key
+*.pem
